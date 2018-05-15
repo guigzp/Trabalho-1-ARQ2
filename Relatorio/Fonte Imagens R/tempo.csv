@@ -1,0 +1,17 @@
+Binario, Preditor, Tempo
+Gramschmidt, Tournament, 0.000824
+Gramschmidt, Ltage, 0.000798
+Gramschmidt, Bimode, 0.000826
+Gramschmidt, 2bits, 0.000824
+h264dec, Tournament, 0.065021
+h264dec, Ltage, 0.064607
+h264dec, Bimode, 0.066535
+h264dec, 2bits, 0.064932
+oopack, Tournament, 0.163949
+oopack, Ltage, 0.161188
+oopack, Bimode, 0.163970
+oopack, 2bits, 0.163972
+mandel2, Tournament, 1.883634
+mandel2, Ltage, 1.883621
+mandel2, Bimode, 1.883648
+mandel2, 2bits, 3.844257

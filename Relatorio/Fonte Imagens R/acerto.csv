@@ -1,0 +1,17 @@
+Binario, Preditor, Taxa_de_Acerto
+Gramschmidt, Tournament, 98.2166
+Gramschmidt, Ltage, 99.6022
+Gramschmidt, Bimode, 98.0858
+Gramschmidt, 2bits, 98.1654
+h264dec, Tournament, 94.2081
+h264dec, Ltage, 95.0072
+h264dec, Bimode, 92.8308
+h264dec, 2bits, 93.9967
+oopack, Tournament, 99.3986
+oopack, Ltage, 99.9039
+oopack, Bimode, 99.3972
+oopack, 2bits, 99.397
+mandel2, Tournament, 99.994
+mandel2, Ltage, 99.9991
+mandel2, Bimode, 99.9992
+mandel2, 2bits, 96.2957
